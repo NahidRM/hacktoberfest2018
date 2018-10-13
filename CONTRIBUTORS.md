@@ -1198,3 +1198,8 @@ Name: Minu Kumari(https://github.com/minukumari)</br>
 Place: New Delhi</br>
 About: Student</br>
 Programming Languages: C, C++,python,HTML,CSS,JAVASCRIPT,Django</br>
+
+Name: Nahid Muzammil (https://github.com/NahidRM)
+Place: Saudi Arabia
+About: All about those free tees
+Programming Languages: Python, C++
